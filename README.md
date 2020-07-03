@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/bifrost-codes/bifrost.svg?branch=master)](https://travis-ci.org/bifrost-codes/bifrost)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flurpis%2Fbifrost.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flurpis%2Fbifrost?ref=badge_shield)
 
 # Bifrost Node
 
@@ -62,3 +63,7 @@ cargo run -- \
 ```
 
 Additional CLI usage options are available and may be shown by running `cargo run -- --help`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flurpis%2Fbifrost.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flurpis%2Fbifrost?ref=badge_large)
